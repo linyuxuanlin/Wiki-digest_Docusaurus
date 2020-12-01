@@ -9,7 +9,7 @@ module.exports = {
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
   //projectName: "Wiki_Docusaurus", // Usually your repo name.
   themeConfig: {
-
+    sidebarCollapsible: false,
     colorMode: {
       // "light" | "dark"
       //defaultMode: 'dark',
