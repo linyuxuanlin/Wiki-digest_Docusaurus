@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-
+    Home: ["Hello"],
 
     理论: [
       "反脆弱：从不确定性中获益",
@@ -55,6 +55,5 @@ module.exports = {
       "一个人的朝圣",
       "基督山伯爵",
     ],
-
   },
 };

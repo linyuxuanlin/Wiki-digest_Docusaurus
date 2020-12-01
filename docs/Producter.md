@@ -1,7 +1,6 @@
 ---
 id: Producter
 title: Producter
-slug: /
 ---
 
 `周楷雯`
