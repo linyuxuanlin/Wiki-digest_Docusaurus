@@ -9,6 +9,20 @@ module.exports = {
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
   //projectName: "Wiki_Docusaurus", // Usually your repo name.
   themeConfig: {
+
+    algolia: {
+      apiKey: 'YOUR_API_KEY',
+      indexName: 'YOUR_INDEX_NAME',
+
+      // Optional: see doc section bellow
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
+    },
+
     sidebarCollapsible: false,
     colorMode: {
       // "light" | "dark"
@@ -87,12 +101,14 @@ module.exports = {
           label: "友情链接",
           position: "right",
         },
-        */
+        
         {
           href: "https://wiki-power.com",
           label: "Wiki",
           position: "right",
         },
+
+        */
       ],
     },
     /*
