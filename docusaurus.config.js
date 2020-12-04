@@ -11,8 +11,8 @@ module.exports = {
   themeConfig: {
 
     algolia: {
-      apiKey: 'YOUR_API_KEY',
-      indexName: 'YOUR_INDEX_NAME',
+      apiKey: '4cb7cbb290ebf1c47479ada3658c3d8e',
+      indexName: 'digest',
 
       // Optional: see doc section bellow
       contextualSearch: true,
