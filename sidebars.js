@@ -1,15 +1,8 @@
 module.exports = {
 
   docs: [
-    {
-      type: 'category',
-      label: 'Home',
-      collapsed: true,
-      items: [
-        "Hello",
-      ],
-    },
-
+   
+    "Hello",
     {
       type: 'category',
       label: '理论',
