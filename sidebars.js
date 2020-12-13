@@ -1,9 +1,21 @@
 module.exports = {
-  someSidebar: {
-    Home: ["Hello"],
 
-    理论: [
-      "反脆弱：从不确定性中获益",
+  docs: [
+    {
+      type: 'category',
+      label: 'Home',
+      collapsed: true,
+      items: [
+        "Hello",
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '理论',
+      collapsed: true,
+      items: [
+        "反脆弱：从不确定性中获益",
       "Producter",
       "小岛经济学",
       "沉默的大多数",
@@ -28,10 +40,15 @@ module.exports = {
       "游戏化教育：改变互联网教育的创新战略",
       "博客十年",
       "失控",
-    ],
+      ],
+    },
 
-    小说: [
-      "银河帝国",
+    {
+      type: 'category',
+      label: '小说',
+      collapsed: true,
+      items: [
+        "银河帝国",
       "且听风吟",
       "黄金时代",
       "三体",
@@ -55,6 +72,9 @@ module.exports = {
       "德米安：彷徨少年时",
       "一个人的朝圣",
       "基督山伯爵",
-    ],
-  },
+      ],
+    },
+  ],
+
+
 };
