@@ -23,7 +23,7 @@ module.exports = {
       //... other Algolia params
     },
 
-    sidebarCollapsible: false,
+    sidebarCollapsible: true,
     colorMode: {
       // "light" | "dark"
       //defaultMode: 'dark',
