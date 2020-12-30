@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Power's Digest",
+  title: "Power's Digest", //test
   tagline: "still developing",
   url: "https://digest.wiki-power.com",
   baseUrl: "/",
