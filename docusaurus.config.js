@@ -37,15 +37,17 @@ module.exports = {
       respectPrefersColorScheme: false,
 
       // Dark/light switch icon options
+      // Dark/light switch icon options
       switchConfig: {
         // Icon for the switch while in dark mode
-        darkIcon: '🌙',
+        darkIcon: " ",
+        lightIcon: ' ',
 
         // CSS to apply to dark icon,
         // React inline style object
         // see https://reactjs.org/docs/dom-elements.html#style
         darkIconStyle: {
-          marginLeft: '2px',
+          marginLeft: "2px",
         },
 
         // Unicode icons such as '\u2600' will work
@@ -53,7 +55,7 @@ module.exports = {
         //lightIcon: '\u{1F602}',
 
         lightIconStyle: {
-          marginLeft: '1px',
+          marginLeft: "1px",
         },
       },
     },
