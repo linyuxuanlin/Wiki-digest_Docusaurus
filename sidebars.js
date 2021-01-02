@@ -1,11 +1,9 @@
 module.exports = {
-
   docs: [
-   
     "Hello",
     {
-      type: 'category',
-      label: '理论',
+      type: "category",
+      label: "理论",
       collapsed: false,
       items: [
         "反脆弱：从不确定性中获益",
@@ -37,8 +35,8 @@ module.exports = {
     },
 
     {
-      type: 'category',
-      label: '小说',
+      type: "category",
+      label: "小说",
       collapsed: false,
       items: [
         "银河帝国",
@@ -67,7 +65,11 @@ module.exports = {
         "基督山伯爵",
       ],
     },
+    {
+      type: "category",
+      label: "文章转载",
+      collapsed: false,
+      items: ["真正的自由？——从杨舒平的演讲来谈中国和言论自由"],
+    },
   ],
-
-
 };
