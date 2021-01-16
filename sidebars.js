@@ -69,7 +69,10 @@ module.exports = {
       type: "category",
       label: "文章转载",
       collapsed: false,
-      items: ["真正的自由？——从杨舒平的演讲来谈中国和言论自由"],
+      items: [
+        "reproduce/真正的自由？——从杨舒平的演讲来谈中国和言论自由",
+        
+      ],
     },
   ],
 };
