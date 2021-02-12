@@ -39,6 +39,7 @@ module.exports = {
       label: "小说",
       collapsed: false,
       items: [
+        "世界尽头与冷酷仙境",
         "银河帝国",
         "且听风吟",
         "黄金时代",
