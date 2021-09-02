@@ -6,6 +6,7 @@ module.exports = {
       label: "理论",
       collapsed: false,
       items: [
+        "论持久战",
         "反脆弱：从不确定性中获益",
         "Producter",
         "小岛经济学",
