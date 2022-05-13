@@ -69,7 +69,7 @@ module.exports = {
       logo: {
         alt: "My Site Logo",
         src:
-          "https://cos.wiki-power.com/img/20201122195819.png",
+          "https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20201122195819.png",
       },
       */
       items: [
