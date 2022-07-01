@@ -75,6 +75,7 @@ module.exports = {
         "reproduce/互联网不需要皇帝",
         "reproduce/真正的自由？——从杨舒平的演讲来谈中国和言论自由",
         "reproduce/马斯克是骗子，也是先驱",
+        "reproduce/浪费掉的时间，才是自己的",
       ],
     },
   ],
