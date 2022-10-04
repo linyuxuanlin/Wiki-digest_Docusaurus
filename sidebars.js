@@ -6,6 +6,7 @@ module.exports = {
       label: "理论",
       collapsed: false,
       items: [
+        "资金流向",
         "禅与摩托车维修艺术",
         "论持久战",
         "反脆弱：从不确定性中获益",
