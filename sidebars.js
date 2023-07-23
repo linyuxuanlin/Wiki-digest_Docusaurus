@@ -3,7 +3,7 @@ module.exports = {
     "Hello",
     {
       type: "category",
-      label: "理论",
+      label: "理论类",
       collapsed: false,
       items: [
         "反脆弱：从不确定性中获益",
@@ -39,7 +39,7 @@ module.exports = {
 
     {
       type: "category",
-      label: "小说",
+      label: "文学类",
       collapsed: false,
       items: [
         "世界尽头与冷酷仙境",
