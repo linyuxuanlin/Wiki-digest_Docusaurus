@@ -9,8 +9,8 @@ slug: /
 
 <br/>
 
-My book-reading digest presented here.  
-Enjoy yourself, or back to  
-My Wiki: [**Power's Wiki**](https://wiki-power.com)
+这里是我存放阅读书摘的站点。  
+请自由阅览。  
+也可以跳转到我的博客参观：[**Power's Wiki**](https://wiki-power.com)
 
 <br/>
